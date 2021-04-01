@@ -15,11 +15,8 @@ This catagory makes up a small amount of the swords in this mod. All swords in t
 Supreme Grade:
 This catagory makes up a very small amount of the swords in this mod. All swords in this catagory do a base damage of 250.
 
-Haki Grade: Just a bunch of black swords!
+Haki Grade: 
+Just a bunch of black swords!
 
 
 DISCORD : https://discord.gg/w754wKmC
-
-Current Features:
-
-NONE
