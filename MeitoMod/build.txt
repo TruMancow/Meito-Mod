@@ -1,0 +1,3 @@
+displayName = Meito Mod (Blades!)
+author = TruMancow
+version = 1.0
