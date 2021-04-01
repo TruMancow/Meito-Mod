@@ -6,11 +6,9 @@ using Terraria.ModLoader;
 namespace MeitoMod.Swords.GreatGrade.Enma
 {
 	public class Enma : ModItem
-	{
-		public override void SetStaticDefaults();
-        } 
+    {
         public override void SetStaticDefaults()
-        {
+        
             Tooltip.SetDefault("Enma doesn't seem to respond well to your commands. Maybe if you could prove yourself to her...");  
         }
 

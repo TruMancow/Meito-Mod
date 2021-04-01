@@ -6,9 +6,10 @@ using Terraria.ModLoader;
 namespace MeitoMod.Swords.GreatGrade.AmeNoHabakiri
 {
 	public class AmeNoHabakiri : ModItem
-    {public override void SetStaticDefaults()
-        {
-            Tooltip.SetDefault("Hmm... I wonder if you could talk to someone to figure out more about this sword...");  
+    {
+        public override void SetStaticDefaults();
+        
+            Tooltip.SetDefault ("Hmm... I wonder if you could talk to someone to figure out more about this sword...");  
         }
 
         public override void SetDefaults()
