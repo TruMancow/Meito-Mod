@@ -30,10 +30,10 @@ namespace MeitoMod.Swords.Grade.CobaltKatana
         public override void AddRecipes()
         {
             ModRecipe recipe = new ModRecipe(mod);
-            recipe.AddIngredient(ItemID.CobaltBar);
+            recipe.AddIngredient(ItemID.381);
             recipe.SetResult(this, 15);
             recipe.AddRecipe();
-            recipe = new ModRecipe();
+            recipe = new ModRecipe(mod);
             recipe.AddRecipeGroup("MeitoMod:CobaltKatana");
             recipe.SetResult(this, 15);
             recipe.AddRecipe();
